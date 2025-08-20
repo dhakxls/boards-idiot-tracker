@@ -1,3 +1,4 @@
+Attribute VB_Name = "Module1"
 ' Module1 (Standard Module)
 Sub SortAmountColumns(ws As Worksheet)
     Dim lastColumn As Long
